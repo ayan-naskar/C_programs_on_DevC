@@ -1,0 +1,18 @@
+Student Name: Ayan1
+Mobile Number: 2394875263
+Department: wer
+Gender: Male
+CGPA: 10.000000
+
+Student Name: Ayan2
+Mobile Number: 98762345
+Department: oiu
+Gender: Male
+CGPA: 10.000000
+
+Student Name: aiseyufgae
+Mobile Number: 23489756
+Department: we
+Gender: Female
+CGPA: 11.000000
+
